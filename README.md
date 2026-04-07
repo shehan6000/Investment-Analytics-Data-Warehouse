@@ -1,19 +1,6 @@
 # Investment Analytics Data Warehouse 
 
-## 📋 Table of Contents
 
-1. [Overview](#overview)
-2. [Architecture](#architecture)
-3. [Installation & Setup](#installation--setup)
-4. [Data Model](#data-model)
-5. [ETL Pipeline](#etl-pipeline)
-6. [OLAP Operations](#olap-operations)
-7. [Dashboard Features](#dashboard-features)
-8. [SQL Query Examples](#sql-query-examples)
-9. [Best Practices](#best-practices)
-10. [Troubleshooting](#troubleshooting)
-
----
 
 ## Overview
 
