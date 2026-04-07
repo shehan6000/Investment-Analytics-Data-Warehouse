@@ -3,7 +3,6 @@
 
 
 ## Overview
-
 ### Purpose
 The Investment Analytics Data Warehouse is a comprehensive solution designed for analyzing investment portfolios, transactions, and performance metrics using dimensional modeling and OLAP (Online Analytical Processing) techniques.
 
